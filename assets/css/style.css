@@ -1,0 +1,14 @@
+@media screen {
+  #voiture {
+    position: static;
+    display: block;
+    width: 100%;
+  }
+}
+@media screen {
+  #voiture {
+    position: static;
+    display: block;
+    width: 75%;
+  }
+}
